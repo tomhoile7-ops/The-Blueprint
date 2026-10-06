@@ -1,4 +1,4 @@
-const CACHE = "blueprint-v1";
+const CACHE = "blueprint-v2";
 
 const ASSETS = [
   "./",
